@@ -1,0 +1,26 @@
+body{
+    background-color:#ffffff;  
+}
+
+h1{
+    color:#fff;
+    background-color:dodgerblue;
+    border: 5px;
+    padding: 5px;
+    text-align: center;
+}
+
+h2{
+   
+}
+
+ol{
+     
+}
+
+div {
+    color:#fff;
+    background-color:rgb(75, 212, 243); 
+    border: 5px;
+    padding: 5px; 
+}

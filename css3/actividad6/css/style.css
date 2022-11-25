@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif; /*Tipo del letra Roboto*/
+    font-size: 14px;
+  }
+  .enlace-blue{
+    text-decoration:none;
+    color: #4299e1;
+    margin: 8px;
+  }
+  .espacio{
+    padding-top: 24px;
+    padding-bottom: 24px;
+  }
+  .caja1{
+    width:  64px;               /*ancho*/
+    height: 64px;              /*alto*/
+    background-color: #4299e1; /*color de fondo*/
+    color: #fff;
+    margin: 8px;
+
+    position: static;
+    left: 128px;
+  }
+
+  body{
+    font-family: 'Roboto', sans-serif; /*Tipo del letra Roboto*/
+    font-size: 14px;
+  }
+  .enlace-blue{
+    text-decoration:none;
+    color: #4299e1;
+    margin: 8px;
+  }
+  .espacio{
+    padding-top: 24px;
+    padding-bottom: 24px;
+  }
+  .caja2{
+    width:  64px;               /*ancho*/
+    height: 64px;              /*alto*/
+    background-color: #4299e1; /*color de fondo*/
+    color: #fff;
+    margin: 8px;
+
+    position:relative; /*posicion relativa del elemento*/
+    left: 48px; /*se deplaza de izquierda a derecha 48px*/
+    top: 48px; 
+  }
+
+  body{
+    font-family: 'Roboto', sans-serif; /*Tipo del letra Roboto*/
+    font-size: 14px;
+  }
+  .enlace-blue{
+    text-decoration:none;
+    color: #4299e1;
+    margin: 8px;
+  }
+  h1{
+    text-align: center;
+  }
+  .espacio{
+    padding-top: 24px;
+    padding-bottom: 24px;
+  }
+  .caja3{
+    width:  64px;               /*ancho*/
+    height: 64px;              /*alto*/
+    background-color: #4299e1; /*color de fondo*/
+    color: #fff;
+    margin-left: 60px;
+
+    position:absolute; /*posicion absolute del elemento*/
+    left: 80px; /*se deplaza de izquierda a derecha 80px*/
+  }
+
+
+  body{
+    font-family: 'Roboto', sans-serif; /*Tipo del letra Roboto*/
+    font-size: 14px;
+  }
+  .enlace-blue{
+    text-decoration:none;
+    color: #4299e1;
+    margin: 8px;
+  }
+  .espacio{
+    padding-top: 24px;
+    padding-bottom: 24px;
+  }
+  .caja4{
+    width:  64px;               /*ancho*/
+    height: 64px;              /*alto*/
+    background-color: #4299e1; /*color de fondo*/
+    color: #fff;
+    margin: 8px;
+
+    position:fixed; /*posicion fija del elemento*/
+    left: 200px
+
+    
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
